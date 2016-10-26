@@ -1,1 +1,1 @@
-print ("Bye cruel world")
+print ('Bye cruel world')
