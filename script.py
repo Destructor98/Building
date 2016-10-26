@@ -1,1 +1,2 @@
-print ('Bye cruel world')
+import some_file
+some_file.circ(2)
